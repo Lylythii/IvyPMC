@@ -1,5 +1,5 @@
 
-####Ivy theme for PolyMC.
+#### Ivy theme for PolyMC.
 Also works in MultiMC!
 
 Simply drag & drop the contents of this repository into your PolyMC or MultiMC installation & it should be ready to enable.
