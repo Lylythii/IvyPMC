@@ -10,3 +10,5 @@ Simply drag & drop the contents of this repository into your PolyMC or MultiMC i
 2. Launch PolyMC or MultiMC.
 3. Traverse to `Settings > MultiMC > User Interface > Colors`.
 4. Select `Ivy`.
+
+![Logo](./theme.png)
